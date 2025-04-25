@@ -25,7 +25,7 @@ logging.basicConfig(filename='assets/output/bot_log.txt',
                            '%(levelname)s - %(message)s')
 
 # инициализация бота
-bot = Bot("6717870953:AAE5MWaZsy6QpBaP98s_ix-ixqnKwYMmuX8")
+bot = Bot("INSERT_YOUR_TOKEN_HERE")
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 # dp.update.middleware(LoggingMiddleware())
