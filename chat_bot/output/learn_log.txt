@@ -1,0 +1,100 @@
+Initializing a new model.
+Parameters to be optimized: 21386460
+
+18:54:53 | step 0: train loss 10.4343, valid loss 10.4405
+18:57:22 | step 100: train loss 6.7309, valid loss 6.8377
+18:59:51 | step 200: train loss 6.6345, valid loss 6.8283
+19:02:20 | step 300: train loss 6.6084, valid loss 6.8071
+19:04:49 | step 400: train loss 6.7959, valid loss 6.9825
+19:07:17 | step 500: train loss 6.6170, valid loss 6.7880
+19:09:47 | step 600: train loss 6.5285, valid loss 6.7117
+19:12:16 | step 700: train loss 6.5168, valid loss 6.7426
+19:14:45 | step 800: train loss 6.6023, valid loss 6.8218
+19:17:14 | step 900: train loss 6.5646, valid loss 6.8194
+Update learning rate to 0.015
+19:19:43 | step 1000: train loss 6.5740, valid loss 6.8199
+19:22:12 | step 1100: train loss 6.3786, valid loss 6.6136
+19:24:41 | step 1200: train loss 6.6706, valid loss 6.9229
+19:27:10 | step 1300: train loss 6.5174, valid loss 6.7736
+19:29:40 | step 1400: train loss 6.5481, valid loss 6.7915
+19:32:09 | step 1500: train loss 6.4755, valid loss 6.7465
+19:34:38 | step 1600: train loss 6.5137, valid loss 6.7935
+19:37:08 | step 1700: train loss 6.5220, valid loss 6.8186
+19:39:37 | step 1800: train loss 6.5912, valid loss 6.8946
+19:42:06 | step 1900: train loss 6.5573, valid loss 6.8584
+Update learning rate to 0.0015
+19:44:36 | step 2000: train loss 6.6732, valid loss 6.9678
+19:47:06 | step 2100: train loss 323.7167, valid loss 331.2920
+19:49:35 | step 2200: train loss 200.8915, valid loss 200.9488
+19:52:04 | step 2300: train loss 79.9629, valid loss 80.5078
+19:54:34 | step 2400: train loss 61.5777, valid loss 63.3821
+19:57:03 | step 2500: train loss 27.1819, valid loss 27.9307
+19:59:32 | step 2600: train loss 14.0800, valid loss 14.4519
+20:02:01 | step 2700: train loss 7.9271, valid loss 8.2357
+
+
+Initializing a new model.
+Parameters to be optimized: 21386460
+
+13:36:31 | step 0: train loss 10.3930, valid loss 10.4025
+13:48:10 | step 500: train loss 6.5905, valid loss 6.7954
+13:59:49 | step 1000: train loss 6.5202, valid loss 6.7648
+Update learning rate to 0.0125
+15:15:00 | step 1500: train loss 6.5348, valid loss 6.8387
+15:24:42 | step 2000: train loss 6.5696, valid loss 6.8978
+15:34:49 | step 2500: train loss 6.5819, valid loss 6.9191
+Update learning rate to 0.00125
+15:45:44 | step 3000: train loss 6.4425, valid loss 6.7823
+15:56:45 | step 3500: train loss 6.4704, valid loss 6.8067
+16:06:19 | step 4000: train loss 6.2316, valid loss 6.5775
+Update learning rate to 0.000125
+16:15:55 | step 4500: train loss 6.4247, valid loss 6.8218
+16:25:30 | step 4999: train loss 82.0762, valid loss 82.6117
+
+
+Initializing a new model.
+Parameters to be optimized: 22956252
+
+08:47:01 | epoch 1: train loss 5.7239, valid loss 6.1097, lr 0.0100
+09:00:56 | epoch 2: train loss 5.8446, valid loss 6.2682, lr 0.0100
+09:15:28 | epoch 3: train loss 5.7819, valid loss 6.2800, lr 0.0100
+09:29:02 | epoch 4: train loss 5.8064, valid loss 6.3158, lr 0.0100
+09:41:59 | epoch 5: train loss 5.7813, valid loss 6.3375, lr 0.0010
+09:55:06 | epoch 6: train loss 5.6855, valid loss 6.3035, lr 0.0010
+10:08:55 | epoch 7: train loss 5.6519, valid loss 6.2779, lr 0.0010
+10:22:35 | epoch 8: train loss 5.6202, valid loss 6.2944, lr 0.0010
+10:36:09 | epoch 9: train loss 5.6107, valid loss 6.3086, lr 0.0001
+10:49:03 | epoch 10: train loss 5.6062, valid loss 6.3112, lr 0.0001
+11:01:33 | epoch 11: train loss 5.6083, valid loss 6.3145, lr 0.0001
+11:13:57 | epoch 12: train loss 5.5976, valid loss 6.3250, lr 0.0001
+
+
+Initializing a new model.
+Parameters to be optimized: 22956252
+
+13:34:23 | epoch 0: train loss 11.5425, valid loss 11.5660, lr 0.002000
+13:46:45 | epoch 1: train loss 4.7896, valid loss 5.7580, lr 0.002000
+13:58:59 | epoch 2: train loss 3.4169, valid loss 6.2901, lr 0.002000
+14:11:13 | epoch 3: train loss 2.3040, valid loss 7.0632, lr 0.002000
+14:24:40 | epoch 4: train loss 1.5529, valid loss 7.9161, lr 0.002000
+14:38:37 | epoch 5: train loss 1.1062, valid loss 8.7117, lr 0.000400
+14:52:25 | epoch 6: train loss 0.7846, valid loss 9.1186, lr 0.000400
+15:06:11 | epoch 7: train loss 0.6843, valid loss 9.4279, lr 0.000400
+15:18:46 | epoch 8: train loss 0.6091, valid loss 9.6994, lr 0.000400
+15:32:03 | epoch 9: train loss 0.5451, valid loss 10.0422, lr 0.000080
+15:45:29 | epoch 10: train loss 0.5176, valid loss 10.0767, lr 0.000080
+15:58:52 | epoch 11: train loss 0.5020, valid loss 10.1731, lr 0.000080
+16:11:10 | epoch 12: train loss 0.4881, valid loss 10.2379, lr 0.000080
+
+
+Initializing a new model.
+Parameters to be optimized: 20685682
+
+20:30:26 | epoch 0: train loss 11.1284, lr 0.002000
+20:37:01 | epoch 1: train loss 4.9028, lr 0.002000
+20:43:42 | epoch 2: train loss 4.4127, lr 0.002000
+20:50:18 | epoch 3: train loss 4.0228, lr 0.002000
+20:56:49 | epoch 4: train loss 3.7015, lr 0.002000
+21:03:19 | epoch 5: train loss 3.3474, lr 0.002000
+21:09:46 | epoch 6: train loss 3.0403, lr 0.002000
+21:16:35 | epoch 7: train loss 2.7174, lr 0.002000
