@@ -16,6 +16,6 @@ Model was copied from https://github.com/bernhard-pfann/lad-gpt
 
 **chat_bot**
 
- * Transformer model with hyperparameters in config and training on random generated butches.
+ * Transformer model with hyperparameters in config and training on random generated butches with learning rate schedule..
  
  * Asynchonous telegram chat bot for chatting with contacts (members) from chat. 
