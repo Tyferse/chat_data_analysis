@@ -18,4 +18,4 @@ Model was copied from https://github.com/bernhard-pfann/lad-gpt
 
  * Transformer model with hyperparameters in config and training on random generated butches with learning rate schedule..
  
- * Asynchonous telegram chat bot for chatting with contacts (members) from chat. 
+ * Asynchonous telegram chat bot for chatting with contacts (members) from chat. There is simple sqlalchemy database, user roles in dialogue, context saves and optional number of answers from bot.
